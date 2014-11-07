@@ -1,0 +1,3 @@
+[submodule "plos-thesaurus/plos-thesaurus"]
+	path = plos-thesaurus/plos-thesaurus
+	url = https://github.com/PLOS/plos-thesaurus.git
